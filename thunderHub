@@ -990,7 +990,7 @@ v227:AddSwitch("Spy Player", function(p288)
         end
     end
 end)
-v227:AddLabel("EX: username - mohaop just type mo / display name - ZX_BLA BLA just type ZX")
+v227:AddLabel("made whit hearth by Liam if bugs happen dm me at dc over liamofdark")
 rocksTab = v1:AddTab("ROCKS")
 local vu293 = game.Players.LocalPlayer
 rocksTab:AddSwitch("Auto Punch", function(p294)
